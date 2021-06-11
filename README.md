@@ -60,6 +60,6 @@ Après nous passerons à l’explication par
 Les operateurs :
 ![image](https://user-images.githubusercontent.com/83011466/121745195-633a3980-cb04-11eb-88a2-8fb97d84daeb.png)
 
-Les machines et les operations (de production et Hors-production :
+Les machines et les operations :
 
-![image](https://user-images.githubusercontent.com/83011466/121745305-7816cd00-cb04-11eb-9fb7-784f4fa87e29.png)  ![image](https://user-images.githubusercontent.com/83011466/121745370-81079e80-cb04-11eb-853d-a5567cdcabea.png)  ![image](https://user-images.githubusercontent.com/83011466/121745405-89f87000-cb04-11eb-8345-ba3636f72880.png)
+![image](https://user-images.githubusercontent.com/83011466/121745305-7816cd00-cb04-11eb-9fb7-784f4fa87e29.png)  ![image](https://user-images.githubusercontent.com/83011466/121745370-81079e80-cb04-11eb-853d-a5567cdcabea.png) 
