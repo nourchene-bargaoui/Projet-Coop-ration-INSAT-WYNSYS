@@ -63,3 +63,23 @@ Les operateurs :
 Les machines et les operations :
 
 ![image](https://user-images.githubusercontent.com/83011466/121745305-7816cd00-cb04-11eb-9fb7-784f4fa87e29.png)  ![image](https://user-images.githubusercontent.com/83011466/121745370-81079e80-cb04-11eb-853d-a5567cdcabea.png) 
+
+# Resume
+Au cours de ce TP, nous avons commencé par découvrir des outils informatiques et de gestion
+de flux tel que Build.me et Bizagi. Ainsi, nous avons proposé notre nouvelle solution à travers
+des exigences à satisfaire pour le client, nous avons analyser les besoins fonctionnels qui
+constituent les objectifs visés du modèle conçu. A partir de ces besoins nous avons passé au
+choix des outils pour cette solution. Enfin, nous avons modélisé les flux des données dans un
+diagramme BPMN et nous avons détaillé les étapes de configuration de la solution proposée
+dans Build.me.
+
+# Perspectives
+
+Comme perspectives de ce TP, nous avons créé un « Job SAP pas à pas ».
+Un « job » permet d’automatiser un programme (une tâche) à une fréquence donnée. Cela
+permet d’éviter des actions manuelles rébarbatives. La fonction qu’on a développée consiste à
+une protection du système. La fonction implémentée vérifie, périodiquement, si l’opérateur
+est absent, ou un autre opérateur non signalé est en train d’exécuter une opération, le système
+se déconnecte automatiquement.
+
+![image](https://user-images.githubusercontent.com/83011466/121745659-f07d8e00-cb04-11eb-848e-02e421f17be7.png)
