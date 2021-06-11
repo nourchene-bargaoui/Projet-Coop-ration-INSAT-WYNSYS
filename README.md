@@ -43,3 +43,23 @@ d’authentification, d’affectation et suivi en temps réel des opérateurs et
 
 ![image](https://user-images.githubusercontent.com/83011466/121745053-240be880-cb04-11eb-82f8-67714015ba72.png)
 
+Application Build.me
+
+Cette étape comprend l’implémentation de la solution sur le système d’information Build.me
+Outil Build.me
+
+Un outil de SAP build est un outil destiné à construire un projet informatique pour obtenir
+un livrable, un JAR ou encore un WAR (destiné à être déployé sur un serveur d'applications).
+
+# Déploiement de la solution sur Build.me
+
+On commencera par définir notre base de données. 
+Après nous passerons à l’explication par
+étape de l’utilisation de notre solution.
+
+Les operateurs :
+![image](https://user-images.githubusercontent.com/83011466/121745195-633a3980-cb04-11eb-88a2-8fb97d84daeb.png)
+
+Les machines et les operations (de production et Hors-production :
+
+![image](https://user-images.githubusercontent.com/83011466/121745305-7816cd00-cb04-11eb-9fb7-784f4fa87e29.png)  ![image](https://user-images.githubusercontent.com/83011466/121745370-81079e80-cb04-11eb-853d-a5567cdcabea.png)  ![image](https://user-images.githubusercontent.com/83011466/121745405-89f87000-cb04-11eb-8345-ba3636f72880.png)
