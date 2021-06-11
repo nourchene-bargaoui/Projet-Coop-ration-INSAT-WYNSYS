@@ -20,3 +20,23 @@ perspectives à ce travail.
 
 ![image](https://user-images.githubusercontent.com/83011466/121744699-90d2b300-cb03-11eb-9dde-4db5a8d17c20.png)
 
+# Cadrage du système
+
+Grâce à la digitalisation des processus industriels via la mise en place des systèmes connectés de
+Gestion d’exécution de la production MES les industriels cherchent à maitriser l’ensemble des
+processus industriels et à superviser la progression des travaux dans les différents ateliers.
+
+La problématique qui se présente aujourd’hui est l’exploitation de ces nouvelles opportunités offertes
+par les systèmes MES pour modéliser une solution ergonomique dont le but est de suivre en temps
+réel l’exécution de la production.
+
+# Déploiement de la solution BPMN
+
+l’outil BPMN
+L’outil BPMN (Business Process Model and Notation) a été développé avec l'objectif de
+faciliter la communication entre les différents acteurs engagés dans le développement des
+systèmes d'information et des applicatifs orientés sur les processus de l'entreprise, afin de
+favoriser l'utilisation d'un langage commun de modélisation.
+
+A ce niveau, nous allons modéliser les flux et décrire l’enchainement des processus
+d’authentification, d’affectation et suivi en temps réel des opérateurs et superviseurs.
