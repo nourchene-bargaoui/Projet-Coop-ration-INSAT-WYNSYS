@@ -40,3 +40,6 @@ favoriser l'utilisation d'un langage commun de modélisation.
 
 A ce niveau, nous allons modéliser les flux et décrire l’enchainement des processus
 d’authentification, d’affectation et suivi en temps réel des opérateurs et superviseurs.
+
+![image](https://user-images.githubusercontent.com/83011466/121745053-240be880-cb04-11eb-82f8-67714015ba72.png)
+
