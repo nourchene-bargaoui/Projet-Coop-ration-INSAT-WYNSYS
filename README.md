@@ -16,4 +16,7 @@ Dans le troisième chapitre, nous nous intéressons à la modélisation et le ch
 solution.
 
 Nous terminons notre travail par une conclusion générale présentant les principaux résultats ainsi que les
-perspectives à ce travail
+perspectives à ce travail.
+
+![image](https://user-images.githubusercontent.com/83011466/121744699-90d2b300-cb03-11eb-9dde-4db5a8d17c20.png)
+
